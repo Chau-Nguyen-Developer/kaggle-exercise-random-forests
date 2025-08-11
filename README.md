@@ -20,4 +20,7 @@ Multiple trees were created, and each uses:
 ### Q: What is bootstrapping?  
 1. Bootstrapping means randomly sampling with replacement from original data to create new datasets. "With replacement" means after picking a data point, we put it back into the dataset before picking the next one, giving old data point a second chance to be picked. This means some points will appear multiple times, and some points do not show up any time.
 
-2. Purpose? --> Create multiple training datasets, so each model sees a slightly different view of the data.  
+2. Purpose? --> Create multiple training datasets, so each model sees a slightly different view of the data.
+
+### Q: I want to see the code. 
+Please [click here](exercise-random-forests.ipynb) or check out the .ipynb file above. 
